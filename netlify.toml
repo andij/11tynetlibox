@@ -1,4 +1,4 @@
 [build]
   functions = "./build-netlify-functions"
-  publish = "./_site"
+  publish = "./build"
   command = "npm run build"
