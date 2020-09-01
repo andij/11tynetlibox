@@ -15,4 +15,4 @@ Markdown published.
 
 ## Details
 
-Inspired by Jim Nielsen's post on Netlify https://www.netlify.com/blog/2018/10/15/combining-netlify-with-dropbox-for-a-one-click-publishing-process/ and swapping the Jekyll implementation with Eleventy.
+Inspired by Jim Nielsen's post on Netlify [Combining Netlify with Dropbox For a One-Click Publishing Process](https://www.netlify.com/blog/2018/10/15/combining-netlify-with-dropbox-for-a-one-click-publishing-process/) and swapping the Jekyll implementation with Eleventy.
